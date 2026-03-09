@@ -6,7 +6,7 @@ def agregar_columna_imagen():
     
     try:
         # ALTER TABLE permite modificar la estructura sin borrar datos
-        cursor.execute("ALTER TABLE Perfumes ADD COLUMN imagen_url TEXT;")
+        cursor.execute("UPDATE Enlaces_Scraping SET ultima_revision = NULL WHERE id IN(3,4)")  # Limpiamos cualquier dato previo para evitar confusiones
         print("✅ ¡Cirugía exitosa! Columna 'imagen_url' agregada a la base de datos.")
     except sqlite3.OperationalError:
         print("⚠️ La columna ya existe (seguro ya habías corrido este script). Todo en orden.")

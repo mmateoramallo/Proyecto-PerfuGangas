@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Search, Package, TrendingUp, X, Filter } from 'lucide-react';
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
+// ¡NUEVO! Importamos Legend de recharts
+import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Legend } from 'recharts';
 
 function App() {
   const [busqueda, setBusqueda] = useState(''); 
   const [perfumes, setPerfumes] = useState([]); 
   const [cargando, setCargando] = useState(false); 
 
-  // --- NUEVOS ESTADOS PARA LOS FILTROS ---
   const [marcaFiltro, setMarcaFiltro] = useState('');
   const [ordenPrecio, setOrdenPrecio] = useState('');
 
@@ -57,11 +57,7 @@ function App() {
     setCargandoHistorial(false);
   };
 
-  // ================= LÓGICA DE FILTROS Y ORDEN =================
-  // 1. Obtenemos una lista limpia de las marcas disponibles
   const marcasUnicas = [...new Set(perfumes.map(p => p.marca))].sort();
-
-  // 2. Aplicamos los filtros y el orden a los resultados antes de mostrarlos
   let perfumesProcesados = [...perfumes];
 
   if (marcaFiltro !== '') {
@@ -73,7 +69,6 @@ function App() {
   } else if (ordenPrecio === 'mayor') {
     perfumesProcesados.sort((a, b) => (b.precio_actual || 0) - (a.precio_actual || 0));
   }
-  // =============================================================
 
   return (
     <div className="min-h-screen bg-gray-900 text-white font-sans relative">
@@ -98,8 +93,6 @@ function App() {
       </header>
 
       <main className="max-w-7xl mx-auto p-4 py-8">
-        
-        {/* ================= BARRA DE FILTROS ================= */}
         <div className="flex flex-col sm:flex-row justify-between items-center bg-gray-800/50 p-4 rounded-xl border border-gray-700 mb-8 gap-4">
           <div className="flex items-center gap-2 text-gray-400">
             <Filter size={20} className="text-orange-500"/>
@@ -129,7 +122,6 @@ function App() {
             </select>
           </div>
         </div>
-        {/* =================================================== */}
 
         {cargando ? (
           <div className="text-center text-orange-500 py-20 text-xl animate-pulse font-bold">
@@ -142,7 +134,6 @@ function App() {
             </p>
             
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-              {/* ATENCIÓN: Ahora mapeamos "perfumesProcesados", no "perfumes" */}
               {perfumesProcesados.map((perfume) => (
                 <div 
                   key={perfume.id} 
@@ -150,13 +141,11 @@ function App() {
                   className="bg-gray-800 rounded-xl overflow-hidden border border-gray-700 hover:border-orange-500 hover:shadow-[0_0_20px_rgba(249,115,22,0.15)] hover:-translate-y-1 transition-all cursor-pointer group flex flex-col"
                 >
                   <div className="h-48 bg-white flex items-center justify-center overflow-hidden border-b border-gray-700/50 relative">
-                    {/* Etiqueta de precio sobre la foto */}
                     {perfume.precio_actual && (
                        <div className="absolute top-2 right-2 bg-gradient-to-r from-orange-600 to-red-600 text-white font-bold px-3 py-1 rounded-full text-sm shadow-lg z-10">
                          ${perfume.precio_actual.toLocaleString('es-AR')}
                        </div>
                     )}
-                    
                     {perfume.imagen_url ? (
                       <img 
                         src={perfume.imagen_url} 
@@ -221,15 +210,31 @@ function App() {
                     <YAxis stroke="#9CA3AF" tickFormatter={(value) => `$${value}`} />
                     <Tooltip 
                       contentStyle={{ backgroundColor: '#1F2937', borderColor: '#374151', color: '#F3F4F6' }}
-                      formatter={(value) => [`$${value}`, 'Precio']}
+                      formatter={(value, name) => [`$${value}`, name]}
                       labelFormatter={(label) => `Fecha: ${label}`}
                     />
+                    <Legend verticalAlign="top" height={36}/>
+                    
+                    {/* LÍNEA DE JULERIAQUE (Naranja) */}
                     <Line 
                       type="monotone" 
-                      dataKey="precio" 
+                      dataKey="precio_Juleriaque" 
+                      name="Juleriaque"
                       stroke="#F97316" 
                       strokeWidth={3}
-                      activeDot={{ r: 8, fill: "#EF4444" }} 
+                      activeDot={{ r: 8, fill: "#F97316" }} 
+                      connectNulls={true}
+                    />
+                    
+                    {/* LÍNEA DE FIORANI (Verde) */}
+                    <Line 
+                      type="monotone" 
+                      dataKey="precio_Fiorani" 
+                      name="Fiorani"
+                      stroke="#10B981" 
+                      strokeWidth={3}
+                      activeDot={{ r: 8, fill: "#10B981" }} 
+                      connectNulls={true}
                     />
                   </LineChart>
                 </ResponsiveContainer>

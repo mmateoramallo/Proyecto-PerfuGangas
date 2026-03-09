@@ -73,13 +73,13 @@ def buscar_perfume(q: str = ""):
     return [dict(fila) for fila in resultados]
 
 
-# 2. RUTA DEL HISTORIAL (Para dibujar el gráfico)
+# 2. RUTA DEL HISTORIAL (Para dibujar el gráfico comparativo)
 @app.get("/historial/{perfume_id}")
 def obtener_historial(perfume_id: int):
     conexion = obtener_conexion()
     cursor = conexion.cursor()
     
-    # Unimos Perfumes, Enlaces, Tiendas e Historial para traer toda la info junta
+    # Traemos todos los registros sueltos
     cursor.execute('''
         SELECT Tiendas.nombre as tienda, Historial_Precios.precio, Historial_Precios.fecha
         FROM Perfumes
@@ -93,4 +93,24 @@ def obtener_historial(perfume_id: int):
     resultados = cursor.fetchall()
     conexion.close()
     
-    return [dict(fila) for fila in resultados]
+    # ==========================================
+    # MAGIA DE AGRUPACIÓN (Pivot)
+    # ==========================================
+    datos_agrupados = {}
+    
+    for fila in resultados:
+        fecha = fila['fecha']
+        tienda = fila['tienda']
+        precio = fila['precio']
+        
+        # Si es el primer precio que vemos en esta fecha, creamos la cajita
+        if fecha not in datos_agrupados:
+            datos_agrupados[fecha] = {'fecha': fecha}
+            
+        # Agregamos el precio con una etiqueta especial (Ej: "precio_Juleriaque" o "precio_Fiorani")
+        datos_agrupados[fecha][f"precio_{tienda}"] = precio
+
+    # Convertimos nuestro diccionario agrupado en una lista final ordenada
+    lista_final = sorted(datos_agrupados.values(), key=lambda x: x['fecha'])
+    
+    return lista_final
