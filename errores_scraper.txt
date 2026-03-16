@@ -236,3 +236,107 @@
 [2026-03-09] ERROR en Fiorani | COACH FOR MEN EDP (100 ML) | URL: https://www.fiorani.com/coach-for-men-edp-11403/p?skuId=23370
 [2026-03-09] ERROR en Fiorani | COACH FOR MEN EDP (40 ML) | URL: https://www.fiorani.com/coach-for-men-edt-4255/p?skuId=23371
 [2026-03-09] ERROR en Fiorani | BLUE SEDUCTION MEN COFRE EDT (100 ML) | URL: https://www.fiorani.com/blue-seduction-men-cofre-edt/p?skuId=21676
+[2026-03-15] ERROR en Juleriaque | INVICTUS PARFUM (50 ML) | URL: https://www.juleriaque.com.ar/invictus-parfum-901072-13338/p
+[2026-03-15] ERROR en Juleriaque | INVICTUS PARFUM (100 ML) | URL: https://www.juleriaque.com.ar/invictus-parfum-901072-13338/p
+[2026-03-15] ERROR en Juleriaque | INVICTUS PARFUM (200 ML) | URL: https://www.juleriaque.com.ar/invictus-parfum-901072-13338/p
+[2026-03-15] ERROR en Juleriaque | Invictus EDT Ed. Limitada (200 ML) | URL: https://www.juleriaque.com.ar/invictus-edt-100279310369-9164/p
+[2026-03-15] ERROR en Juleriaque | INVICTUS PARFUM (50 ML) | URL: https://www.juleriaque.com.ar/invictus-parfum-901072-13338/p
+[2026-03-15] ERROR en Juleriaque | INVICTUS PARFUM (100 ML) | URL: https://www.juleriaque.com.ar/invictus-parfum-901072-13338/p
+[2026-03-15] ERROR en Juleriaque | GENTLEMAN SOCIETY EDP (100 ML) | URL: https://www.juleriaque.com.ar/gentleman-society-edp-100901789620-21599/p
+[2026-03-15] ERROR en Juleriaque | GENTLEMAN RESERVE PRIVEÉ EDP (100 ML) | URL: https://www.juleriaque.com.ar/gentleman-reserve-privee-edp-82212-2339/p
+[2026-03-15] ERROR en Juleriaque | MERCEDES BENZ AIR EDP (100 ML) | URL: https://www.juleriaque.com.ar/mercedes-benz-air-edp-100950389822-22466/p
+[2026-03-15] ERROR en Juleriaque | CH MEN WILD LOVE EDP (100 ML) | URL: https://www.juleriaque.com.ar/ch-men-wild-love-edp-903547-19804/p
+[2026-03-15] ERROR en Juleriaque | THE ICON MAN SUPREME EDP INTENSE (100 ML) | URL: https://www.juleriaque.com.ar/the-icon-man-supreme-edp-intense-1009451903157-22231/p
+[2026-03-15] ERROR en Juleriaque | MYSLF EDP REFILL (150 ML) | URL: https://www.juleriaque.com.ar/myslf-edp-refill-901505-15186/p
+[2026-03-15] ERROR en Juleriaque | DIAMONDS MEN EDT Ed. Limitada (75 ML) | URL: https://www.juleriaque.com.ar/diamonds-men-edt-1008020903033-18803/p
+[2026-03-15] ERROR en Juleriaque | NIGHT CLUB EDT (100 ML) | URL: https://www.juleriaque.com.ar/night-club-edt-88978-8798/p
+[2026-03-15] ERROR en Juleriaque | ARMANI CODE EDP (125 ML) | URL: https://www.juleriaque.com.ar/armani-code-edp-23064/p
+[2026-03-15] ERROR en Juleriaque | SAUVAGE EAU FORTE PARFUM (60 ML) | URL: https://www.juleriaque.com.ar/sauvage-eau-forte-parfum-901892-15365/p
+[2026-03-15] ERROR en Fiorani | BOLD EDP (50 ML) | URL: https://www.fiorani.com/bold-edp-7389/p?skuId=18595
+[2026-03-15] ERROR en Fiorani | BOLD EDP (100 ML) | URL: https://www.fiorani.com/bold-edp-7389/p?skuId=18595
+[2026-03-15] ERROR en Fiorani | BOLD EDP (200 ML) | URL: https://www.fiorani.com/bold-edp-7389/p?skuId=18595
+[2026-03-15] ERROR en Fiorani | BOLD + MOCHILA EDP (100 ML) | URL: https://www.fiorani.com/bold-mochila-edp-9338/p?skuId=22921
+[2026-03-15] ERROR en Fiorani | BORN IN ROMA EXTRADOSE UOMO PARFUM (50 ML) | URL: https://www.fiorani.com/born-in-roma-extradose-uomo-parfum-11647/p?skuId=23170
+[2026-03-15] ERROR en Fiorani | BORN IN ROMA EXTRADOSE UOMO PARFUM (100 ML) | URL: https://www.fiorani.com/born-in-roma-extradose-uomo-parfum-11647/p?skuId=23170
+[2026-03-15] ERROR en Fiorani | BOLD INTENSE + MOCHILA EDP (100 ML) | URL: https://www.fiorani.com/bold-intense-mochila-edp-11077/p?skuId=22924
+[2026-03-15] ERROR en Fiorani | BOSS BOTTLED PARFUM (50 ML) | URL: https://www.fiorani.com/boss-bottled-parfum-11006/p?skuId=22803
+[2026-03-15] ERROR en Fiorani | THE ICON MAN SUPREME COFRE EDP (+ DEO 150 ML) (100 ML) | URL: https://www.fiorani.com/the-icon-man-supreme-cofre-edp-deo-150ml-11794/p?skuId=24066
+[2026-03-15] ERROR en Fiorani | DIAVOLO EDT (100 ML) | URL: https://www.fiorani.com/diavolo-edt/p?skuId=22414
+[2026-03-15] ERROR en Fiorani | DIAVOLO EDT (200 ML) | URL: https://www.fiorani.com/diavolo-edt/p?skuId=22414
+[2026-03-15] ERROR en Fiorani | THE SECRET COFRE EDT (+ DEO 150 ML) (100 ML) | URL: https://www.fiorani.com/the-secret-cofre-edt-deo-150ml-11805/p?skuId=24071
+[2026-03-15] ERROR en Fiorani | AGUA FRESCA LIMA TONKA EDT (120 ML) | URL: https://www.fiorani.com/agua-fresca-lima-tonka-edt/p?skuId=22740
+[2026-03-15] ERROR en Fiorani | AGUA FRESCA LIMA TONKA EDT (200 ML) | URL: https://www.fiorani.com/agua-fresca-lima-tonka-edt/p?skuId=22740
+[2026-03-15] ERROR en Fiorani | BLUE NIGHT ELIXIR PARFUM (100 ML) | URL: https://www.fiorani.com/blue-night-elixir-parfum-11849/p?skuId=22539
+[2026-03-15] ERROR en Fiorani | BLUE SEDUCTION MEN COFRE EDT (+DEO 150 ML) (100 ML) | URL: https://www.fiorani.com/blue-seduction-men-cofre-edt-deo-150ml-11804/p?skuId=24070
+[2026-03-15] ERROR en Fiorani | HAWAS ICE MEN EDP (100 ML) | URL: https://www.fiorani.com/hawas-ice-men-edp-11502/p?skuId=23679
+[2026-03-15] ERROR en Fiorani | NEROLI INTENSE EDT (100 ML) | URL: https://www.fiorani.com/neroli-intense-edt-6282/p?skuId=16855
+[2026-03-15] ERROR en Fiorani | RAGHBA FOR MAN EDP + 50 ML DEO (100 ML) | URL: https://www.fiorani.com/raghba-for-man-edp-50ml-deo-11888/p?skuId=24159
+[2026-03-15] ERROR en Fiorani | THE SECRET ABSOLU COFRE EDP(+ DEO 150 ML) (100 ML) | URL: https://www.fiorani.com/the-secret-absolu-cofre-edp-deo-150ml-11807/p?skuId=24073
+[2026-03-15] ERROR en Fiorani | CONFIDENTIAL PLATINUM EDP (100 ML) | URL: https://www.fiorani.com/confidential-platinum-edp-11891/p?skuId=24162
+[2026-03-15] ERROR en Fiorani | FOR HIM EDT + PEPE JEANS COCKTAIL EDITION FOR HIM EDT (100 ML) | URL: https://www.fiorani.com/for-him-edt-pepe-jeans-cocktail-edition-for-him-edt-12035/p?skuId=24420
+[2026-03-15] ERROR en Fiorani | PHANTOM EDT COFRE (+ DEO150 + MG10 FD23) (100 ML) | URL: https://www.fiorani.com/phantom-edt-cofre-deo150-mg10-fd23-11916/p?skuId=20475
+[2026-03-15] ERROR en Fiorani | CELEBRATE FOR HIM EDP +PEPE JEANS CELEBRATE FOR HER EDP (100 ML) | URL: https://www.fiorani.com/celebrate-for-him-edp-pepe-jeans-celebrate-for-her-edp-12032/p?skuId=24417
+[2026-03-15] ERROR en Fiorani | FOR HIM SOBOLD EDP + PEPE JEANS FOR HIM EDT (100 ML) | URL: https://www.fiorani.com/for-him-sobold-edp-pepe-jeans-for-him-edt-12034/p?skuId=24419
+[2026-03-15] ERROR en Fiorani | IBIZA 24/7 FEELING HIM EDT (100 ML) | URL: https://www.fiorani.com/ibiza-247-feeling-him-edt-9065/p?skuId=20044
+[2026-03-15] ERROR en Fiorani | BULGARI MAN WOOD ESSENCE EDP (60 ML) | URL: https://www.fiorani.com/bulgari-man-wood-essence-edp-7517/p?skuId=2194
+[2026-03-15] ERROR en Fiorani | BULGARI MAN WOOD ESSENCE EDP (150 ML) | URL: https://www.fiorani.com/bulgari-man-wood-essence-edp-7517/p?skuId=2194
+[2026-03-15] ERROR en Fiorani | POWER OF SEDUCTION COFRE EDT (+ DEO 150 ML) (100 ML) | URL: https://www.fiorani.com/power-of-seduction-cofre-edt-deo-150ml-11801/p?skuId=20325
+[2026-03-15] ERROR en Fiorani | BOLD PRIVE + MOCHILA PARFUM (100 ML) | URL: https://www.fiorani.com/bold-prive-mochila-parfum-11850/p?skuId=22919
+[2026-03-15] ERROR en Fiorani | CLUB DE NUIT INTENSE MAN PARFUM (200 ML) | URL: https://www.fiorani.com/club-de-nuit-intense-man-edp-10274/p?skuId=23516
+[2026-03-15] ERROR en Fiorani | BLUE SEDUCTION SUMMER ESSENCE MEN EDT (100 ML) | URL: https://www.fiorani.com/blue-seduction-summer-essence-men-edt-9688/p?skuId=21119
+[2026-03-15] ERROR en Fiorani | L.12.12 BLANC EDP (100 ML) | URL: https://www.fiorani.com/l1212-blanc-edp-10151/p?skuId=21891
+[2026-03-15] ERROR en Fiorani | SUNSET EDP (100 ML) | URL: https://www.fiorani.com/sunset-edp-7307/p?skuId=18443
+[2026-03-15] ERROR en Fiorani | AGUA FRESCA COFRE EDT (120 ML) | URL: https://www.fiorani.com/agua-fresca-cofre-edt-10456/p?skuId=20318
+[2026-03-15] ERROR en Fiorani | L.12.12 BLANC COFRE EDT (100 ML) | URL: https://www.fiorani.com/l1212-blanc-cofre-edt-12216/p?skuId=24245
+[2026-03-15] ERROR en Fiorani | THE SECRET TEMPTATION EDT (100 ML) | URL: https://www.fiorani.com/the-secret-temptation-edt/p?skuId=2425
+[2026-03-15] ERROR en Fiorani | INVICTUS VICTORY ELIXIR COFRE PARFUM (+ DEO150 + MG10 HD25) (100 ML) | URL: https://www.fiorani.com/invictus-victory-elixir-cofre-parfum-deo150-mg10-hd25-11912/p?skuId=24212
+[2026-03-15] ERROR en Fiorani | ONE MILLION COFRE EDT (+DEO150+MG10 FD25) (100 ML) | URL: https://www.fiorani.com/one-million-cofre-edt-deo150mg10-fd25-11911/p?skuId=22850
+[2026-03-15] ERROR en Fiorani | THE ICON COFRE EDT (+DEO 150 ML) (100 ML) | URL: https://www.fiorani.com/the-icon-cofre-edt-deo-150ml-11806/p?skuId=24072
+[2026-03-15] ERROR en Fiorani | MILLION GOLD INTENSE COFRE EDP (+DEO150+MG10 HD25) (100 ML) | URL: https://www.fiorani.com/million-gold-intense-cofre-edp-deo150mg10-hd25-11913/p?skuId=24213
+[2026-03-15] ERROR en Fiorani | INVICTUS COFRE EDT** (100 ML) | URL: https://www.fiorani.com/invictus-cofre-edt-11084/p?skuId=22851
+[2026-03-15] ERROR en Fiorani | BAMBU MAN EDT (60 ML) | URL: https://www.fiorani.com/bambu-man-edt/p?skuId=2305
+[2026-03-15] ERROR en Fiorani | BAMBU MAN EDT (120 ML) | URL: https://www.fiorani.com/bambu-man-edt/p?skuId=2305
+[2026-03-15] ERROR en Fiorani | BULGARI MAN GLACIAL ESSENCE EDP (60 ML) | URL: https://www.fiorani.com/bulgari-man-glacial-essence-edp/p?skuId=2190
+[2026-03-15] ERROR en Fiorani | MILLION GOLD EDP (50 ML) | URL: https://www.fiorani.com/million-gold-edp-11055/p?skuId=21088
+[2026-03-15] ERROR en Fiorani | AMBAR NEGRO COFRE EDP (120 ML) | URL: https://www.fiorani.com/ambar-negro-cofre-edp-10021/p?skuId=21674
+[2026-03-15] ERROR en Fiorani | CLUB DE NUIT ICONIC EDP (100 ML) | URL: https://www.fiorani.com/club-de-nuit-iconic-edp-10270/p?skuId=22113
+[2026-03-15] ERROR en Fiorani | GREEN LOVER EDT (100 ML) | URL: https://www.fiorani.com/green-lover-edt/p?skuId=9072
+[2026-03-15] ERROR en Fiorani | AGUA FRESCA MEN VERBENA EDT* (120 ML) | URL: https://www.fiorani.com/agua-fresca-men-verbena-edt-8778/p?skuId=19640
+[2026-03-15] ERROR en Fiorani | CLUB DE NUIT URBAN ELIXIR EDP (100 ML) | URL: https://www.fiorani.com/club-de-nuit-urban-elixir-edp-10273/p?skuId=22116
+[2026-03-15] ERROR en Fiorani | FIERCE MEN COLOGNE (100 ML) | URL: https://www.fiorani.com/fierce-men-cologne-9537/p?skuId=20890
+[2026-03-15] ERROR en Fiorani | PHANTOM COFRE PARFUM (100 ML) | URL: https://www.fiorani.com/phantom-cofre-parfum-9295/p?skuId=22852
+[2026-03-15] ERROR en Fiorani | UNITED GREEN AMAZONIA EDT (100 ML) | URL: https://www.fiorani.com/united-green-amazonia-edt-9535/p?skuId=20886
+[2026-03-15] ERROR en Fiorani | THE ICON ELIXIR COFRE EDP (100 ML) | URL: https://www.fiorani.com/the-icon-elixir-cofre-edp-9213/p?skuId=22768
+[2026-03-15] ERROR en Fiorani | PHANTOM INTENSE PARFUM REFILL (200 ML) | URL: https://www.fiorani.com/phantom-intense-parfum-refill-11242/p?skuId=20347
+[2026-03-15] ERROR en Fiorani | UNITED FOREVER HIM EDT (100 ML) | URL: https://www.fiorani.com/united-forever-him-edt-7227/p?skuId=21126
+[2026-03-15] ERROR en Fiorani | COCKTAIL EDITION FOR HIM EDT (80 ML) | URL: https://www.fiorani.com/cocktail-edition-for-him-edt/p?skuId=16843
+[2026-03-15] ERROR en Fiorani | I AM INSANE HIM EDT (100 ML) | URL: https://www.fiorani.com/i-am-insane-him-edt-7775/p?skuId=19199
+[2026-03-15] ERROR en Fiorani | WINGS MEN EDT (100 ML) | URL: https://www.fiorani.com/wings-men-edt/p?skuId=2014
+[2026-03-15] ERROR en Fiorani | THE ICON COFRE EDP* (100 ML) | URL: https://www.fiorani.com/the-icon-cofre-edp-8872/p?skuId=20323
+[2026-03-15] ERROR en Fiorani | BLUE NIGHT ELIXIR COFRE EDP (100 ML) | URL: https://www.fiorani.com/blue-night-elixir-cofre-edp-11078/p?skuId=22927
+[2026-03-15] ERROR en Fiorani | L'HOMME EDP (100 ML) | URL: https://www.fiorani.com/lhomme-edp-11412/p?skuId=23490
+[2026-03-15] ERROR en Fiorani | UNITED TOGETHER HIM EDT (100 ML) | URL: https://www.fiorani.com/united-together-him-edt/p?skuId=2624
+[2026-03-15] ERROR en Fiorani | SMART EDP (-) | URL: https://www.fiorani.com/smart-edp-7250/p?skuId=18376
+[2026-03-15] ERROR en Fiorani | SMART EDP (80 ML) | URL: https://www.fiorani.com/smart-edp-7250/p?skuId=18376
+[2026-03-15] ERROR en Fiorani | UNITED GREEN POP HIM EDT (100 ML) | URL: https://www.fiorani.com/united-green-pop-him-edt-11272/p?skuId=23252
+[2026-03-15] ERROR en Fiorani | ENCRE INDIGO FATHERS DAY SET EDP (150 ML) | URL: https://www.fiorani.com/encre-indigo-fathers-day-set-edp-11132/p?skuId=22996
+[2026-03-15] ERROR en Fiorani | FOR MEN EDT (100 ML) | URL: https://www.fiorani.com/for-men-edt-9276/p?skuId=20442
+[2026-03-15] ERROR en Fiorani | THE ICON COFRE EDT (100 ML) | URL: https://www.fiorani.com/the-icon-cofre-edt/p?skuId=21678
+[2026-03-15] ERROR en Fiorani | TRIBE COFRE EDT (90 ML) | URL: https://www.fiorani.com/tribe-cofre-edt-8809/p?skuId=20328
+[2026-03-15] ERROR en Fiorani | BOLD BRAVE + MOCHILA EDP (100 ML) | URL: https://www.fiorani.com/bold-brave-mochila-edp-11076/p?skuId=22923
+[2026-03-15] ERROR en Fiorani | FIRST INSTINCT MEN EDT (30 ML) | URL: https://www.fiorani.com/first-instinct-men-edt/p?skuId=2872
+[2026-03-15] ERROR en Fiorani | UOMO EDT (100 ML) | URL: https://www.fiorani.com/uomo-edt-6418/p?skuId=17524
+[2026-03-15] ERROR en Fiorani | BRAVE COFRE EDP (50 ML) | URL: https://www.fiorani.com/brave-cofre-edp-11075/p?skuId=22922
+[2026-03-15] ERROR en Fiorani | CLASSIC BLACK EDT (100 ML) | URL: https://www.fiorani.com/classic-black-edt-9258/p?skuId=20420
+[2026-03-15] ERROR en Fiorani | RIO NEGRO EDT (80 ML) | URL: https://www.fiorani.com/rio-negro-edt-7814/p?skuId=19220
+[2026-03-15] ERROR en Fiorani | RIO NEGRO DEO SPRAY (150 ML) | URL: https://www.fiorani.com/rio-negro-deo-spray-7794/p?skuId=19227
+[2026-03-15] ERROR en Fiorani | BOLD COFRE EDP (50 ML) | URL: https://www.fiorani.com/bold-cofre-edp-8904/p?skuId=22920
+[2026-03-15] ERROR en Fiorani | BLUE EXTREME COFRE EDP (100 ML) | URL: https://www.fiorani.com/blue-extreme-cofre-edp-10179/p?skuId=22926
+[2026-03-15] ERROR en Fiorani | RELAX EDP (-) | URL: https://www.fiorani.com/relax-edp-7251/p?skuId=18377
+[2026-03-15] ERROR en Fiorani | RELAX EDP (80 ML) | URL: https://www.fiorani.com/relax-edp-7251/p?skuId=18377
+[2026-03-15] ERROR en Fiorani | BLUE NIGHT COOL SPRAY + SHOWER GEL COFRE EDP (-) | URL: https://www.fiorani.com/blue-night-cool-spray-shower-gel-cofre-edp-9336/p?skuId=20593
+[2026-03-15] ERROR en Fiorani | COACH FOR MEN EDP (100 ML) | URL: https://www.fiorani.com/coach-for-men-edp-11403/p?skuId=23370
+[2026-03-15] ERROR en Fiorani | COACH FOR MEN EDP (40 ML) | URL: https://www.fiorani.com/coach-for-men-edt-4255/p?skuId=23371
+[2026-03-15] ERROR en Fiorani | BLUE SEDUCTION MEN COFRE EDT (100 ML) | URL: https://www.fiorani.com/blue-seduction-men-cofre-edt/p?skuId=21676
+[2026-03-15] ERROR en Parfumerie | HOMME COLOGNE (200 ML) | URL: https://www.parfumerie.com.ar/homme-cologne
+[2026-03-15] ERROR en Parfumerie | DIOR HOMME EDT (150 ML) | URL: https://www.parfumerie.com.ar/dior-homme-edt

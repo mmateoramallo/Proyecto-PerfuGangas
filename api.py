@@ -53,23 +53,25 @@ def buscar_perfume(q: str = ""):
 def buscar_perfume(q: str = ""):
     conexion = obtener_conexion()
     cursor = conexion.cursor()
-    
     query = f"%{q}%"
     
-    # TRUCO MAESTRO: Una "Subconsulta" para buscar el último precio de cada perfume
+    # TRUCO MAESTRO: GROUP_CONCAT junta los nombres de las tiendas (Ej: "Juleriaque | Fiorani")
     cursor.execute('''
         SELECT p.id, p.nombre, p.marca, p.presentacion, p.imagen_url,
                (SELECT precio FROM Historial_Precios h
                 JOIN Enlaces_Scraping e ON h.id_enlace = e.id
                 WHERE e.id_perfume = p.id
-                ORDER BY fecha DESC LIMIT 1) as precio_actual
+                ORDER BY fecha DESC LIMIT 1) as precio_actual,
+               (SELECT GROUP_CONCAT(t.nombre, ' | ') 
+                FROM Enlaces_Scraping e 
+                JOIN Tiendas t ON e.id_tienda = t.id 
+                WHERE e.id_perfume = p.id) as tiendas
         FROM Perfumes p 
         WHERE (p.nombre LIKE ? OR p.marca LIKE ?) AND p.activo = 1
     ''', (query, query))
     
     resultados = cursor.fetchall()
     conexion.close()
-    
     return [dict(fila) for fila in resultados]
 
 
